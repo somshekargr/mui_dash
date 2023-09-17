@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "nisha@gmail.com",
+      "password": "$2a$12$ME3xfnv295knCkRpIgicAu4MAj1JQALr9TzZOdqghpbgOq03qae96",
+      "firstName": "Nisha",
+      "lastName": "Devraj",
+      "id": "675f73b2-ab08-496c-b18b-733b89333c47"
+    }
+  ]
+}
