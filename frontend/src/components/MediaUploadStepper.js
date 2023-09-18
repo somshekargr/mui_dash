@@ -15,10 +15,6 @@ export default function MediaUploadStepper() {
   const [hasFile, sethasFile] = React.useState(false);
   const [isUploaded, setisUploaded] = React.useState(false);
 
-  const isStepOptional = (step) => {
-    return;
-  };
-
   const isStepSkipped = (step) => {
     return skipped.has(step);
   };
